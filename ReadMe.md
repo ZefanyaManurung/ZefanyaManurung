@@ -5,4 +5,4 @@ I'm Zefanya from Bengkulu, Indonesia, and i do electrical engineering and passio
 🖥️ HTML, CSS, JS\
 ⚛️ React\
 💻 C++, Java, Python\
-🦿  Arduiono
+🦿  Arduino, Katalon
