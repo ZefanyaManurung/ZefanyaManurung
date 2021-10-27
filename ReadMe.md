@@ -3,6 +3,6 @@ I'm Zefanya from Bengkulu, Indonesia, and i do electrical engineering and passio
 
 ## Skill and Experience
 🖥️ HTML, CSS, JS\
- © React\
- © C++, Java, Python\
- © Arduiono
+⚛️ React\
+💻 C++, Java, Python\
+🦿  Arduiono
